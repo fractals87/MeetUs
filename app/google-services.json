@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226692255832",
+    "project_id": "meetus-91f5f",
+    "storage_bucket": "meetus-91f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226692255832:android:2ba076b3a6720307c83a2d",
+        "android_client_info": {
+          "package_name": "it.mat20018562.meetus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226692255832-84h93dsaueboqlm6ts87u6ioruq8ai3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwa6GTOxDr8w4ZLF8Kwdavsy8PpfgrVUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226692255832-84h93dsaueboqlm6ts87u6ioruq8ai3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

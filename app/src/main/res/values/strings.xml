@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MeetUs</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enterMail">Inserire una mail</string>
+    <string name="errorMail">Inserire una mail valida</string>
+    <string name="enterPwd">Inserire password</string>
+    <string name="authFailed">Autenticazione fallita</string>
+    <string name="regFailed">Registrazione fallita</string>
+    <string name="organizer">organizzatore</string>
+    <string name="supplier">fornitore</string>
+    <string name="guest">guest</string>
+
+    <string-array name="roleList">
+        <item>organizzatore</item>
+        <item>fornitore</item>
+        <item>invitato</item>
+    </string-array>
+</resources>
